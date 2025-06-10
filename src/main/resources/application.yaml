@@ -1,0 +1,4 @@
+quarkus:
+  rest-client:
+    situacao-cadastral-api:
+      url: "http://localhost:8181"
